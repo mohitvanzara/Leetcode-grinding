@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0001-two-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -38,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
