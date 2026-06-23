@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0013-roman-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0013-roman-to-integer) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0678-valid-parenthesis-string) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
