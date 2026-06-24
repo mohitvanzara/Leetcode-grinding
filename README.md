@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0189-rotate-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0169-majority-element) |
 ## Counting
 |  |
