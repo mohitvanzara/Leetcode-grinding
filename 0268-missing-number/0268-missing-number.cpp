@@ -8,7 +8,7 @@ public:
             xor2 = xor2 ^ nums[i];
             xor1 = xor1 ^ (i+1);
         }
-        // xor1 = xor1^ nums.size();
+        // xor1 = xor1^ nums.size(); if we not use i+1 then this line is consider
         return xor1^xor2;
         
         
