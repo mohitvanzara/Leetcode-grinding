@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1021-remove-outermost-parentheses) |
@@ -108,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0043-multiply-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
