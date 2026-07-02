@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3227-vowels-game-in-a-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/3227-vowels-game-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1021-remove-outermost-parentheses) |
+| [3227-vowels-game-in-a-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/3227-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0043-multiply-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/2149-rearrange-array-elements-by-sign) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
