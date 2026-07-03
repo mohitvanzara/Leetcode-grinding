@@ -107,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
