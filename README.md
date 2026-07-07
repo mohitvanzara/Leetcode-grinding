@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0704-binary-search) |
 ## Sorting
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
