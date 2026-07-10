@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0371-sum-of-two-integers) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3227-vowels-game-in-a-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/3227-vowels-game-in-a-string) |
 ## Number Theory
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0371-sum-of-two-integers) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0089-gray-code) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1238-circular-permutation-in-binary-representation) |
 <!---LeetCode Topics End-->
