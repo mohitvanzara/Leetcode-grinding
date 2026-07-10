@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0342-power-of-four) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0338-counting-bits) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
