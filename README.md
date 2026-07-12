@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0231-power-of-two) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0678-valid-parenthesis-string) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0342-power-of-four) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
