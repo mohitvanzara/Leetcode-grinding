@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2079-watering-plants](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Math
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/0043-multiply-strings) |
+| [2079-watering-plants](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitvanzara/Leetcode-grinding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Brainteaser
 |  |
